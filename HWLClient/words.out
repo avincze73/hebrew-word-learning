@@ -1,0 +1,396 @@
+peace;שלום;békesség;miscellaneous;I;;
+mother;אימא;anya;noun;I;;
+wine;יין;bor;noun;I;;
+sea;ים;tenger;noun;I;;
+water;מים;víz;noun;I;;
+gift;מתנה;ajándék;noun;I;;
+what;מה;mi;question;I;;
+who;מי;ki;question;I;;
+I;אני;én;personal pronoun;I;;
+you;אתה;te;personal pronoun;I;male;
+you;את;te;personal pronoun;I;female;
+she;היא;ő;personal pronoun;I;female;
+tent;אוהל;sátor;noun;3;;singular
+tent;אוהלים;sátor;noun;3;;plural
+hostel;אכסניה;kollégium;noun;3;;
+synagogue;בית כנסת;zsinagóga;noun;3;;
+man;גבר;férfi;noun;3;;singular
+man;גברים;férfi;noun;3;;plural
+minute;דקה;perc;noun;3;;singular
+minute;דקות;perc;noun;3;;plural
+day;יום;nap;noun;3;;singular
+day;ימים;nap;noun;3;;plural
+chair;כיסא;szék;noun;3;;singular
+chair;כיסאות;szék;noun;3;;plural
+bed;מיטה;ágy;noun;3;;
+word;מילה;szó;noun;3;;
+word;מילים;szó;noun;3;;
+place;מקום;hely;noun;3;;singular
+place;מקומות;hely;noun;3;;plural
+pita;פיתה;pita;noun;3;;
+furniture;רהית;bútor;noun;3;;
+carpet;שטיח;szőnyeg;noun;3;;singular
+carpet;שטיחים;szőnyeg;noun;3;;plural
+shekel;שקל;sékel;noun;3;;singular
+shekel;שקלים;sékel;noun;3;;plural
+eat;אוכל;eszik;verb;3;;
+sit;יושב;ül;verb;3;;
+go for a walk;מטייל;sétálni;verb;3;;
+cost;עולה;kerül vmibe;verb;3;;
+another;אחר;másik;adjective;3;;singular
+another;אחרת;másik;adjective;3;;plural
+of meat;בשרי;húsos;adjective;3;;singular
+of meat;בשרית;húsos;adjective;3;;plural
+dairy;חלבי;tejes;adjective;3;;singular
+dairy;חלבית;tejes;adjective;3;;plural
+israeli;ישראלי;izraeli;adjective;3;;singular
+israeli;ישראלית;izraeli;adjective;3;;plural
+all;כל;minden;miscellaneous;3;;
+something;משהו;valami;miscellaneous;3;;
+more;עוד;több;miscellaneous;3;;
+thank you very much;תודה רבה;köszönöm szépen;miscellaneous;3;;
+humus;חומוס;humusz étel;foreign word;3;;
+atm;כספומט;atm;foreign word;3;;
+Bedouin;בדווי;Beduin;foreign word;3;;
+love;אהבה;szeretet;noun;2;;
+castle;ארמון;kastély;noun;2;;
+young man;בחור;fiatal ember;noun;2;;
+garden;גינה;kert;noun;2;;
+apartment;דירה;lakás;noun;2;;
+room;חדר;szoba;noun;2;;
+chanukah lamp;חנוכייה;hanuka lámpa;noun;2;;
+notebook;מחברת;jegyzet;noun;2;;
+kitchen;מטבח;konyha;noun;2;;
+shower;מקלחת;fürdőszoba;noun;2;;
+tree;עץ;fa;noun;2;;
+painting/drawing;ציור;festmény;noun;2;;
+table;שולחן;asztal;noun;2;;
+which/what;איזה;melyik;question;2;male;
+which;איזו;melyik;question;2;female;
+which;אילו;melyik;question;2;;plural
+about the/in connection to;בקשר ל;kapcsolatban lenni vmivel;miscellaneous;2;;
+like/as;כמו;mint;miscellaneous;2;;
+for example;למשל;például;miscellaneous;2;;
+sometimes;לפעמים;néha;miscellaneous;2;;
+named after;על שם;elnevezve vmi után;miscellaneous;2;;
+big;גדול;nagy;adjective;2;male;
+big;גדולה;nagy;adjective;2;female;
+new;חדש;új;adjective;2;male;
+new;חדדה;új;adjective;2;female;
+good;טוב;jó;adjective;2;male;
+good;טובה;jó;adjective;2;female;
+beautiful/pretty;יפה;szép;adjective;2;male;
+beautiful/pretty;יפה;szép;adjective;2;female;
+old/ancient;ישן;régi;adjective;2;male;
+old/ancient;ישנה;régi;adjective;2;female;
+special;מיוחד;speciális;adjective;2;male;
+special;מיוחדת;speciális;adjective;2;female;
+excellent;מצוין;kiváló;adjective;2;male;
+excellent;מצוינת;kiváló;adjective;2;female;
+nice;נחמד;szép;adjective;2;male;
+nice;נחמדה;szép;adjective;2;female;
+ancient;עתיק;ősi;adjective;2;male;
+ancient;עתיקה;ősi;adjective;2;female;
+small;קטן;kicsi;adjective;2;male;
+small;קטנה;kicsi;adjective;2;female;
+amphitheater;אמפיתאטרון;amfiteátrum;foreign word;2;;
+ballet;בלט;balett;foreign word;2;;
+living room/salon;סלון;nappali;foreign word;2;;
+emperor,empress;קיסר;hódító;foreign word;2;;singular
+emperor,empress;קיסרית;hódító;foreign word;2;;plural
+modern;מודרני;modern;foreign word;2;;singular
+modern;מודרנית;modern;foreign word;2;;plural
+classical;קלסי;klasszikus;foreign word;2;;singular
+classical;קלסית;klasszikus;foreign word;2;;plural
+zero;אפס;nulla;noun;1;;singular
+zero;אפסים;nulla;noun;1;;plural
+morning;בוקר;reggel;noun;1;;singular
+morning;בוקרים;reggel;noun;1;;plural
+shop;חנות;bolt;noun;1;;singular
+shop;חנויות;bolt;noun;1;;plural
+roll;לחמנייה;kifli;noun;1;;
+night;לילה;éjszaka;noun;1;;
+number;מספר;szám;noun;1;;
+library;סםרייה;könyvtár;noun;1;;
+work;עבודה;munka;noun;1;;
+evening;ערב;este;noun;1;;singular
+evening;ערבים;este;noun;1;;plural
+afternoon;צהריים;délután;noun;1;;
+street;רחוב;utca;noun;1;;singular
+street;רחובות;utca;noun;1;;plural
+toilet;שירוצים;wc;noun;1;;
+say;אומר;mond;verb;1;;
+understand;מבין;ért;verb;1;;
+sorry;מצטער;bocsánatot kér;verb;1;;
+ride/go;נוסע;megy;verb;1;;
+work;עובד;dolgozik;verb;1;;
+buy;קונה;vesz;verb;1;;
+hear;שומע;hall;verb;1;;
+public;ציבורי;nyilvános;adjective;1;;singular
+public;ציבורית;nyilvános;adjective;1;;plural
+bus;אוטובוס;busz;foreign word;1;;
+hello;הלו;hello;foreign word;1;;
+archeologist;ארכאולג;archeológus;foreign word;1;;singular
+archeologist;ארכאולגית;archeológus;foreign word;1;;plural
+doctor;דוקטור;doktor;foreign word;1;;
+history;היסטוריה;történelem;foreign word;1;;
+symphony;סימפוניה;szimfónia;foreign word;1;;
+rock;רוק;rock;foreign word;1;;
+never mind;אין דבר;semmi baj;miscellaneous;1;;
+sure/of course;בטח;persze;miscellaneous;1;;
+and also/both;גם וגם;mindkettő;miscellaneous;1;;
+to the right;ימינה;jobbra;miscellaneous;1;;
+straight;ישר;egyenesen;miscellaneous;1;;
+information;מודיעין;információ;miscellaneous;1;;
+correct/right;נכון;rendben;miscellaneous;1;;
+to the left;שמאלה;balra;miscellaneous;1;;
+two;שתי;kettő;miscellaneous;1;;
+how;איד;hogy;question;1;;
+how many;כמה;mennyi;question;1;;
+when;מתי;mikor;question;1;;
+news;חדשות;hírek;noun;VII;;
+half;חצי;fél;noun;VII;;
+quarter;רבע;negyed;noun;VII;;
+hour;שענ;óra;noun;VII;;
+clock/watch;שעון;óra;noun;VII;;
+quiet;שקט;csend;noun;VII;;
+know;יודע;tud;verb;VII;;
+one;אחת;egy;number;VII;female;
+two;שחיים;kettő;number;VII;female;
+three;שלוש;három;number;VII;female;
+four;ארבע;négy;number;VII;female;
+five;חמש;öt;number;VII;female;
+six;שש;hat;number;VII;female;
+seven;שבע;hét;number;VII;female;
+eight;שמונה;nyolc;number;VII;female;
+nine;תשע;kilenc;number;VII;female;
+ten;עשר;tíz;number;VII;female;
+eleven;אחת עשרה;tizenegy;number;VII;female;
+twelve;שתים עשרה;tizenkettő;number;VII;female;
+sonata;סונטה;szonáta;foreign word;VII;;
+chinese;סינית;kínaiul;foreign word;VII;;
+sandwich;סנדוויץי;szendvics;foreign word;VII;;
+chips;צייפס;csipsz;foreign word;VII;;
+czech;ציכית;csehül;foreign word;VII;;
+cello;צילו;cselló;foreign word;VII;;
+harpsichord;צימבלו;csemballó;foreign word;VII;;
+concerto;קונצירטו;koncert;foreign word;VII;;
+ketchup;קטשופ;ketchup;foreign word;VII;;
+then;אז;akkor;miscellaneous;VII;;
+what luck;איזה מזל;micsoda szerencse;miscellaneous;VII;;
+what is the time;מה השעה;mennyi az idő;miscellaneous;VII;;
+milk;חלב;tej;noun;VI;;
+computer;מחשב;számítógép;noun;VI;;
+letter;מכתב;levél;noun;VI;;
+hotel;בית מלון;hotel;noun;VI;;
+book;ספר;könyv;noun;VI;;
+spanish;ספרדית;spanyolul;noun;VI;;
+arabic;ערבית;arabul;noun;VI;;
+french;צרפתית;franciául;noun;VI;;
+lesson;שיעור;lecke;noun;VI;;
+love;אוהה;szeret;verb;VI;;
+come;בא;jön;verb;VI;;
+walk;הולך;sétál;verb;VI;;
+write;כותב;ír;verb;VI;;
+read;קורא;olvas;verb;VI;;
+university;אוניברסיטה;egyetem;foreign word;VI;;singular
+university;אוניברסיטאות;egyetem;foreign word;VI;;plural
+avocado;אבוקדו;avokádó;foreign word;VI;;singular
+avocado;אבוקדים;avokádó;foreign word;VI;;plural
+internet;אינטרנט;internet;foreign word;VI;;
+bank;בנק;bank;foreign word;VI;;
+music;מוזיקה;zene;foreign word;VI;;
+falafel;פלאפל;falafel;foreign word;VI;;
+professor;פרופסור;professzor;foreign word;VI;;
+coffee;קפה;kávé;foreign word;VI;;
+please;בבקשה;tessék;miscellaneous;VI;;
+good morning;בוקר טוב;jó reggelt;miscellaneous;VI;;
+thank God;ברוך השם;hála Istennek;miscellaneous;VI;;
+welcome;הרוכים הבאים;Isten hozott;miscellaneous;VI;;
+regards;דרישת שלום;üdvözlettel;miscellaneous;VI;;
+the Knesset;הכנסת;a Knesszet;miscellaneous;VI;;
+good/well;טוב;jó;miscellaneous;VI;;
+great/good;יופי;nagyszerű;miscellaneous;VI;;
+very;מאוד;nagyon;miscellaneous;VI;;
+how are you;מה שלומך;hogy vagy;miscellaneous;VI;male;
+how are you;מה שלומך;hogy vagy;miscellaneous;VI;female;
+now;עכשיו;most;miscellaneous;VI;;
+good evening;ערב טוב;jó esetét;miscellaneous;VI;;
+where;איפה;hol;question;VI;;
+but;אבל;de;particle;VI;;
+Addis Ababa;אדיס אבבה;Addis Ababa;city;VI;;
+Haifa;חיפה;Haifa;city;VI;;
+Jaffa;יפו;Jaffa;city;VI;;
+San Francisco;סן פרנסיסקו;San Francisco;city;VI;;
+Tel Aviv;תל-אביב;Tel Aviv;city;VI;;
+Ethiopia;טתיופיה;Etiópia;country;VI;;
+Spain;ספרד;Spanyol;country;VI;;
+France;צרפת;Francia;country;VI;;
+Russia;רוסיה;Orosz;country;VI;;
+father;אבא;apa;noun;V;;singular
+father;אבות;apa;noun;V;;plural
+studio;אולפן;studio;noun;V;;
+grapefruit;אשכולית;grapefruit;noun;V;;singular
+grapefruit;אשכוליות;grapefruit;noun;V;;plural
+house;בית;ház;noun;V;;
+japanese;יפנית;japánul;noun;V;;
+class;קיתה;osztály;noun;V;;
+family;משפחה;család;noun;V;;
+world;עולם;világ;noun;V;;singular
+world;טולמות;világ;noun;V;;plural
+polish;פולנית;lengyelül;noun;V;;
+portuguese;פורטוגזית;portugálul;noun;V;;
+orange;תפוז;narancs;noun;V;;
+talk;מדבר;beszél;verb;V;;
+banana;סננה;banán;foreign word;V;;
+camel;גמל;teve;foreign word;V;;
+camel;גמלים;teve;foreign word;V;;
+olive;זית;oliva;foreign word;V;;
+olive;זיתים;oliva;foreign word;V;;
+museum;מוזאון;múzeum;foreign word;V;;
+sugar;סובר;cukor;foreign word;V;;
+supermarket;סופרמרקט;szupermarket;foreign word;V;;
+politics;פוליטיקה;politika;foreign word;V;;
+theatre;תאטרון;színház;foreign word;V;;
+date;תמר;dátum;foreign word;V;;
+date;תמרים;dátum;foreign word;V;;
+in;ב;-ban,ben;particle;V;;
+near/by;ליד;mellett;particle;V;;
+on/about;על;-ról,ről;particle;V;;
+there is not;אין;nincs;miscellaneous;V;;
+alright;בסדר;rendben;miscellaneous;V;;
+everything;הכול;minden;miscellaneous;V;;
+many/a lot;הרבה;sok;miscellaneous;V;;
+there is;יש;van;miscellaneous;V;;
+yeh;יש;je;miscellaneous;V;;
+the whole world;כל העולם;az egész világ;miscellaneous;V;;
+yes;כן;igen;miscellaneous;V;;
+here;פה;itt;miscellaneous;V;;
+USA;ארצות הברית;USA;country;V;;
+Belgium;בלגיה;Belgium;country;V;;
+Brazil;ברזיל;Brazília;country;V;;
+Denmark;דנמרק;Dánia;country;V;;
+Japan;יפן;Japán;country;V;;
+Poland;פולין;Lengyelország;country;V;;
+Portugal;פורטוגל;Portugália;country;V;;
+Peru;פרו;Peru;country;V;;
+Buenos Aires;בואנוס איירס;Buenos Aires;city;V;;
+Boston;בוסטון;Boston;city;V;;
+Brussels;בריסל;Brüsszel;city;V;;
+Bat Yam;בת ים;Bat Yam;city;V;;
+Warsaw;ורשה;Varsó;city;V;;
+Lima;לימה;Lima;city;V;;
+Lisbon;ליסבון;Liszabon;city;V;;
+Copenhagen;קופנהדן;Kopenhága;city;V;;
+electronics;אלקארוניקה;elektronika;foreign word;IV;;
+mathematics;מתמאיקה;matematika;foreign word;IV;;
+student;סאודנט;egyetemista;foreign word;IV;;singular
+student;סאודנטית;egyetemista;foreign word;IV;;plural
+salad;סלט;saláta;foreign word;IV;;
+communication;קומוניקציה;kommunikáció;foreign word;IV;;
+concert;קונצרט;koncert;foreign word;IV;;
+coca-cola;קוקה קולה;coca-cola;foreign word;IV;;
+kiosk;קיוסק;újságos;foreign word;IV;;
+chocolate;שוקולד;csokoládé;foreign word;IV;;
+o.k.;או קיי;o.k.;foreign word;IV;;
+to/for;ל;-hoz,-hez;particle;IV;;
+with;עם;-val,-vel;particle;IV;;
+do/make;עושה;csinál;verb;IV;;
+want;רוצה;akar;verb;IV;;
+drink;שותה;iszik;verb;IV;;
+country;ארץ;ország;noun;IV;;
+juice;מיץ;juice;noun;IV;;
+restaurant;מסעדה;étterem;noun;IV;;
+cake;עוגה;süti;noun;IV;;
+city;עיר;város;noun;IV;;
+movie;סרט;mozi;noun;IV;;
+moment;רגע;pillanat;noun;IV;;
+Russian;רוסית;oroszul;noun;IV;;
+maybe;אולי;talán;miscellaneous;IV;;
+what is up;מה נשמע;mi újság;miscellaneous;IV;;
+wonderful;מצוין;csodálatos;miscellaneous;IV;;
+pleasure to meet you;נעים מאוד;nagyon örvendek;miscellaneous;IV;;
+excuse me;סליחה;bocsánat;miscellaneous;IV;;
+have fun;לעשות היים;have fun;miscellaneous;IV;;
+a little;קצת;kevés;miscellaneous;IV;;
+only;רק;csak;miscellaneous;IV;;
+we;אנחנו;mi;personal pronoun;IV;;
+he;הוא;ő;personal pronoun;IV;male;
+Egypt;מצרים;Egyiptom;country;IV;;
+Mexico;מקסיקו;Mexikó;country;IV;;
+China;סין;Kína;country;IV;;
+Iraq;עירק;Irak;country;IV;;
+Kenya;קניה;Kenya;country;IV;;
+Tokyo;טוקיו;Tokió;city;IV;;
+Jerusalem;ירושלים;Jeruzsálem;city;IV;;
+Disneyland;דיסנילנד;Disneyland;other;IV;;
+Sinai;סיני;Sinai;other;IV;;
+English;אנגלית;angolul;noun;III;;
+German;גרמנית;németül;noun;III;;
+challah bread;חלה;kenyér;noun;III;;
+Yiddish;יידיש;jiddis;noun;III;;
+bread;לחם;kenyér;noun;III;;
+lemon;לימון;citrom;noun;III;;
+teacher;מורה;tanár;noun;III;;
+salt;מלח;só;noun;III;;
+Romanian;רומנית;románul;noun;III;;
+or;או;vagy;particle;III;;
+and;ו;és;particle;III;;
+live;גר;lakik;verb;III;;
+learn;לומד;tanul;verb;III;;
+sing;שר;énekel;verb;III;;
+you;אתם;ti;personal pronoun;III;male;
+you;אתן;ti;personal pronoun;III;female;
+they;הם;ők;personal pronoun;III;male;
+they;הן;ők;personal pronoun;III;female;
+Dimona;דימונה;Dimona;city;III;;
+Toronto;טורונטו;Toronto;city;III;;
+Jericho;יריחו;Jerikó;city;III;;
+London;לונדון;London;city;III;;
+the Golan;הגולן;Golán;other;III;;
+the Dead Sea;ים הםלח;Holt tenger;other;III;;
+this;זה;ez;demonstrative pronoun;III;;
+this;זאת;ez;demonstrative pronoun;III;;
+these;אלה;ezek;demonstrative pronoun;III;;
+video;וידאו;video;foreign word;III;;
+zoology;זואולוגיה;zoológia;foreign word;III;;
+television;טלוויזיה;televízió;foreign word;III;;
+mayonnaise;מיונז;majonéz;foreign word;III;;
+mint;מנטה;menta;foreign word;III;;
+radio;רדיו;rádió;foreign word;III;;
+no;לא;nem;miscellaneous;III;;
+see you;להתראות;viszlát;miscellaneous;III;;
+hello/good buy;שלום;hello;miscellaneous;III;;
+thank you;תודה;köszönöm;miscellaneous;III;;
+where from;מאין;honnan;question;II;;
+the;ה;a(z);particle;II;;
+from;מ;-ból,-ből;particle;II;;
+of/belonging to;של;-val,-vel;particle;II;;
+man;איש;férfi;noun;II;;singular
+man;אנשים;férfi;noun;II;;plural
+woman;אישה;nő;noun;II;;singular
+woman;נשים;nő;noun;II;;plural
+ice-cream;גלידה;fagyi;noun;II;;
+flag;דגל;zászló;noun;II;;singular
+flag;דגלים;zászló;noun;II;;plural
+mountain;הר;hegy;noun;II;;
+boy;ילד;fiú;noun;II;;singular
+boy;ילדים;fiú;noun;II;;plural
+girl;ילדה;lány;noun;II;;singular
+girl;ילדות;lány;noun;II;;plural
+song;שיר;ének;noun;II;;
+sun;שמש;nap;noun;II;;
+student;תלמיד;tanuló;noun;II;male;
+student;תלמידה;tanuló;noun;II;female;
+Nethania;נתניה;Nethania;city;II;;
+Ireland;אירלנד;Írország;country;II;;
+England;אמגליה;Anglia;country;II;;
+Germany;גרמניב;Németország;country;II;;
+Jordan;ירדן;Jordánia;country;II;;
+Israel;ישראל;Izrael;country;II;;
+Yemen;תימן;Jemen;country;II;;
+also;גם;is;miscellaneous;II;;
+there;הינה;ott;miscellaneous;II;;
+there;שם;ott;miscellaneous;II;;
+margarine;מרגרינה;margarin;foreign word;II;;
+tea;תה;tea;foreign word;II;;
